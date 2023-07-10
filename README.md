@@ -1,3 +1,6 @@
+# Fork info
+This repository was forked with the sole purpose of addressing an issue encountered while utilizing ReShade 4.5.4 in conjunction with the original repository. The error message "unable to extract reshade-shaders-master" arose as a result of the source repository's default branch being renamed from `master` to `slim`. In order to resolve this, I forked the repository and restored the default branch name to `master`, in the hopes that it will assist anyone encountering the same error during their search for a solution.
+
 ReShade FX shaders
 ==================
 
